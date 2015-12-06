@@ -4,7 +4,7 @@ Ultrapowa SC Editor is a GUI to read and edit SC files (*.sc) from Supercell gam
 Ultrapowa SC Editor is not affiliated with Supercell.
 
 Note: the current version may not run properly since I haven't worked on it for a while.
-The app functional design is also bad: ther editor should not store unpacked files in memory, but should rather dump them on disk to avoid any performance or corruption issue. Feel free to enhance it!
+Also, the app functional design is bad. The editor should not store unpacked files in memory, but should rather dump them on disk to avoid any performance or corruption issue. Feel free to enhance it!
 
 More Details: http://www.ultrapowa.com
 
