@@ -1,6 +1,4 @@
 # Ultrapowa-SC-Editor
-Clash of Clans and other Supercell games file editor
-
 Ultrapowa SC Editor is a GUI to read and edit SC files (*.sc) from Supercell games.
 Ultrapowa SC Editor is not affiliated with Supercell.
 
