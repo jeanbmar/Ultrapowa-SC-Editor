@@ -1,5 +1,6 @@
 # Ultrapowa-SC-Editor
 Ultrapowa SC Editor is a GUI to read and edit SC files (*.sc) from Supercell games.
+
 Ultrapowa SC Editor is not affiliated with Supercell.
 
 Note: the current version may not run properly since I haven't worked on it for a while.
